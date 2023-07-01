@@ -1,0 +1,43 @@
+.parent{
+
+       display:flex;
+       flex-direction:column;
+       line-height:30px;
+       margin-top:6%;
+       margin-left:11%;
+       width:80%;
+       box-shadow: 9px 7px  5px #cbcbcb;
+
+      }
+
+
+#c2{margin-left:90px;}
+
+#c3{width:15%;}
+
+#c4{ background-color:#efeef0;width:40%;margin-left:45%;}
+
+#c5{margin-left:58.5%;margin-top:5px;}
+
+.line1{
+            display:flex;
+            flex-direction:row;
+            width:99%;
+            height:35px;
+            border:1px solid lightgray;
+            margin-bottom:0.1px;
+            padding-left:1%;
+
+      }
+
+
+.line2{
+           display:flex;
+           flex-direction:row;
+           width:99%;
+           height:35px;
+           border:1px solid lightgray;
+           padding-left:1%;
+
+ 
+      }
