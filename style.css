@@ -1,0 +1,57 @@
+.main{
+    left: 15%;
+    top: 20%;
+    border: 1px solid rgba(128, 128, 128, 0.50);
+    width: 1000px;
+    position: fixed;
+    margin:0%;
+    padding:0px;
+    box-shadow: 5px 10px 18px rgba(0, 0, 0, 0.50) ;
+}
+.main_Fr{
+  height: 30px;
+  width: 1000px;
+  box-sizing: border-box;   
+  display: flex;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.50);
+ 
+}
+#ship{
+    padding-left: 150px;
+    margin: 0%;
+    padding-top:5px;
+}
+.main_Sr{
+    width:1000px;
+    height:30px;
+    box-sizing: border-box;
+    display: flex;
+    
+}
+#Pb{
+    padding-left: 5px;
+    width:60%;
+    margin:0%;
+    padding-top: 5px;
+}
+#Cb{
+    width: 40%;
+    background-color: rgba(128,128,128,0.5);
+    margin:0px;
+    padding-left: 10px;
+    padding-top:5px;
+}
+b{
+    padding-top:5px;
+    padding-left:5px;
+}
+#con{
+    margin:0%;
+    padding-top:5px;
+    padding-left:5px;
+}
+#close{
+    padding-left:470px;
+    margin:0px;
+    padding-top:5px;
+}
